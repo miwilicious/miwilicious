@@ -1,4 +1,4 @@
-## Hi, Mikaela here! 👋
+* Hi, Mikaela here! 👋
 
 I'm an Angular & React developer based in Stockholm, Sweden, specializing in creating dynamic, responsive, and user-friendly e-commerce websites and applications.
 Currently a student @ Medieinstitutet Stockholm.
