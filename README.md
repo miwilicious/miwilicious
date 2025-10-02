@@ -30,14 +30,14 @@ Currently a student @ Medieinstitutet Stockholm.
 
 **Frameworks:** Angular, React, Bootstrap, Tailwind, Node.js
 
-**Tools & Platforms:** Git, GitHub, GitLab, Atlassian Suite (Jira, Trello), Figma, Shopify, Prismic, MySQL Workbench, Vercel
+**Tools & Platforms:** Git, GitHub, GitLab, Atlassian Suite (Jira, Trello), Figma, Shopify, Prismic, Cosmic, MySQL Workbench, Vercel
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-viklund-4595621b8/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viklund.mikaela@gmail.com) 
 
 Feel free to reach out!
-I am currently looking for internships during summer 2025, fall and spring 2026. 
+I am currently looking for internships during spring 2026. 
 
 
 # 💻 Tech Stack:
