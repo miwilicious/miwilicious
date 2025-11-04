@@ -8,7 +8,11 @@ Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
 
 ## 🔭 Experience
 - **Backend Developer INTERN @ [Fascom](https://fascom.se) (Sep 2025 - Ongoing)**
-
+  - Building and maintaining server logic and APIs, integrating external systems
+  - Working with databases and data communication
+  - Developing backend support for frontend features
+  - Scalability and security
+  
 - **Junior Frontend Developer @ [Flux Agency](https://flux.agency) (Jan 2020 - Apr 2024)**
   - Developed responsive Shopify themes using Liquid and Bootstrap.
   - Built headless Shopify applications with Angular, integrated CMS via Prismic API.
