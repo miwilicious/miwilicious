@@ -1,22 +1,29 @@
 ## Hi, Mikaela here! 👋
 
-I'm an Angular & React developer based in Stockholm, Sweden, specializing in creating dynamic, responsive, and user-friendly e-commerce websites and applications.
-Currently a student @ Medieinstitutet Stockholm.
+I'm a fullstack developer based in Stockholm, Sweden, specializing in creating dynamic, responsive, and user-friendly e-commerce websites and applications.
+Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
 
 ## 🚀 Currently Exploring
 - Expanding backend knowledge with PHP and databases (MySQL).
 
 ## 🔭 Experience
+- **Backend Developer INTERN @ [Fascom](https://fascom.se) (Sep 2025 - Ongoing)**
+
 - **Junior Frontend Developer @ [Flux Agency](https://flux.agency) (Jan 2020 - Apr 2024)**
   - Developed responsive Shopify themes using Liquid and Bootstrap.
   - Built headless Shopify applications with Angular, integrated CMS via Prismic API.
-  - Built, maintained and optimized e-commerce websites such as [Artfull](https://www.artfull.co.nz/), [Lo and Co](https://loandcointeriors.com.au/), and [Coffee Company](https://coffeecompany.com.au/).
+  - Built, maintained and optimized e-commerce websites such as [Lo and Co](https://loandcointeriors.com.au/), [Smash](https://smashproducts.com/),[Coffee Company](https://coffeecompany.com.au/), [Carwyn Cellars](https://carwyncellars.com.au/) and [ROC Boots](https://www.rocboots.com/).
+    
+- **Developer @ [Plutocracy](https://docs.plutocracy.io/plutocracy) (Jan 2023 - Apr 2024)**
+- Plutocracy builds apps for the Shopify-ecosystem that help merchants
+with features like inventory sync, product relations, wishlists, and
+headless/JSON-based APIs.
 
 - **Frontend Developer Intern @ MilestonePay (Jul 2019 - Jan 2020)**
   - Built marketing websites and landing pages using Angular & Bootstrap.
 
 ## 🎓 Education
-- 📚 **Fullstack Developer** @ Medieinstitutet Stockholm *(2024 - 2026)*
+- 📚 **Higher Vocational Education, Web Developer, Medieinstitutet** @ Medieinstitutet Stockholm *(2024 - 2026)*
 - 📜 **Certifications**:
   - Angular Complete Guide
   - SQL Course 
@@ -30,14 +37,14 @@ Currently a student @ Medieinstitutet Stockholm.
 
 **Frameworks:** Angular, React, Bootstrap, Tailwind, Node.js
 
-**Tools & Platforms:** Git, GitHub, GitLab, Atlassian Suite (Jira, Trello), Figma, Shopify, Prismic, Cosmic, MySQL Workbench, Vercel
+**Tools & Platforms:** Git, Atlassian Suite (Jira, Trello), Figma, Shopify, Prismic, Cosmic, MySQL Workbench, Vercel
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-viklund-4595621b8/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viklund.mikaela@gmail.com) 
 
 Feel free to reach out!
-I am currently looking for internships during spring 2026. 
+I am currently looking for internships during the first months of 2026, and future employment. 
 
 
 # 💻 Tech Stack:
