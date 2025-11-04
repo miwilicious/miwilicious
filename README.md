@@ -15,9 +15,9 @@ Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
   - Built, maintained and optimized e-commerce websites such as [Lo and Co](https://loandcointeriors.com.au/), [Smash](https://smashproducts.com/),[Coffee Company](https://coffeecompany.com.au/), [Carwyn Cellars](https://carwyncellars.com.au/) and [ROC Boots](https://www.rocboots.com/).
     
 - **Developer @ [Plutocracy](https://docs.plutocracy.io/plutocracy) (Jan 2023 - Apr 2024)**
-- Plutocracy builds apps for the Shopify-ecosystem that help merchants
-with features like inventory sync, product relations, wishlists, and
-headless/JSON-based APIs.
+  - Plutocracy builds apps for the Shopify-ecosystem that help merchants
+    with features like inventory sync, product relations, wishlists, and
+    headless/JSON-based APIs.
 
 - **Frontend Developer Intern @ MilestonePay (Jul 2019 - Jan 2020)**
   - Built marketing websites and landing pages using Angular & Bootstrap.
