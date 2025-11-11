@@ -29,10 +29,10 @@ Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
 ## 🎓 Education
 - 📚 **Higher Vocational Education, Web Developer, Medieinstitutet** @ Medieinstitutet Stockholm *(2024 - 2026)*
 - 📜 **Certifications**:
-  - Angular Complete Guide
-  - SQL Course 
-  - JavaScript, HTML, CSS, Responsive Web Design, Web Development Fundamentals 
-  - Responsive Web Design 
+  - [Angular Complete Guide](https://www.udemy.com/certificate/UC-6a844398-24b1-42e2-9361-b59ce917d47c/)
+  - [SQL Course](https://www.codecademy.com/profiles/miwilicious/certificates/042a4e5884e3eb6ea1f2a12be6abb851) 
+  - [JavaScript](https://www.sololearn.com/Certificate/CT-O6K9OWIF/pdf), [HTML](https://www.sololearn.com/Certificate/CT-UVAM75GD/pdf), [CSS](https://www.sololearn.com/Certificate/CT-OELAXZUR/pdf), [Responsive Web Design](https://www.sololearn.com/Certificate/CT-BJ5STWJ1/pdf), [Web Development Fundamentals](https://www.sololearn.com/Certificate/CT-IBXTG1G5/pdf) 
+  - Currently working on PHP and React Udemy Courses on my spare time.
 
 
 ## 🛠 Tech Stack
