@@ -48,7 +48,7 @@ Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikaela-viklund-4595621b8/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viklund.mikaela@gmail.com) 
 
 Feel free to reach out!
-I am currently looking for internships during the first months of 2026, and future employment. 
+I am currently looking for Tech internships or full-time employment, starting May 2026. 
 
 
 # 💻 Tech Stack:
