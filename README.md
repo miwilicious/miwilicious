@@ -7,7 +7,7 @@ Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
 - Expanding backend knowledge with PHP and databases (MySQL).
 
 ## 🔭 Experience
-- **Backend Developer INTERN @ [Fascom](https://fascom.se) (Sep 2025 - Ongoing)**
+- **Backend Developer Intern @ [Fascom](https://fascom.se) (Sep 2025 - Ongoing)**
   - Building and maintaining server logic and APIs, integrating external systems
   - Working with databases and data communication
   - Developing backend support for frontend features
