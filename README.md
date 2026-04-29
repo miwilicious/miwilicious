@@ -16,7 +16,7 @@ Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
 - **Junior Frontend Developer @ [Flux Agency](https://flux.agency) (Jan 2020 - Apr 2024)**
   - Developed responsive Shopify themes using Liquid and Bootstrap.
   - Built headless Shopify applications with Angular, integrated CMS via Prismic API.
-  - Built, maintained and optimized e-commerce websites such as [Lo and Co](https://loandcointeriors.com.au/), [Smash](https://smashproducts.com/),[Coffee Company](https://coffeecompany.com.au/), [Carwyn Cellars](https://carwyncellars.com.au/) and [ROC Boots](https://www.rocboots.com/).
+  - Built, maintained and optimized e-commerce websites such as [Lo and Co](https://loandcointeriors.com.au/), [Artfull](https://www.artfull.co.nz/), [Smash](https://smashproducts.com/),[Coffee Company](https://coffeecompany.com.au/), [Carwyn Cellars](https://carwyncellars.com.au/) and [ROC Boots](https://www.rocboots.com/).
     
 - **Developer @ [Plutocracy](https://docs.plutocracy.io/plutocracy) (Jan 2023 - Apr 2024)**
   - Plutocracy builds apps for the Shopify-ecosystem that help merchants
