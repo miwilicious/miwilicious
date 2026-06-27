@@ -1,13 +1,13 @@
 ## Hi, Mikaela here! 👋
 
 I'm a fullstack developer based in Stockholm, Sweden, specializing in creating dynamic, responsive, and user-friendly e-commerce websites and applications.
-Currently a student @ Medieinstitutet Stockholm, graduating spring 2026.
+Just graduated from Medieinstitutet Stockholm,May 2026.
 
 ## 🚀 Currently Exploring
 - Expanding backend knowledge with PHP and databases (MySQL).
 
 ## 🔭 Experience
-- **Backend Developer Intern @ [Fascom](https://fascom.se) (Sep 2025 - Ongoing)**
+- **Backend Developer Intern @ [Fascom](https://fascom.se) (Sep 2025 - May 2026)**
   - Building and maintaining server logic and APIs, integrating external systems
   - Working with databases and data communication
   - Developing backend support for frontend features
